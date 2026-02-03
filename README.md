@@ -17,3 +17,7 @@ Textures used in my Godot tutorials on my YouTube channel
 
 ## 📺 Tutorials
 - Day/Night Cycle
+
+## License
+Everything here is licensed under the MIT License.  
+You are free to use, modify, and distribute these assets, including for commercial purposes.
