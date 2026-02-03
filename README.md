@@ -1,2 +1,19 @@
 # godot-tutorial-assets
-Textures used in my tutorials on my YouTube channel DrewienkoIndieDev
+
+Textures used in my Godot tutorials on my YouTube channel  
+**DrewienkoIndieDev**
+
+---
+
+## ⬇️ Download
+
+**Option 1**
+- Click the green **Code** button → **Download ZIP**
+
+**Option 2**
+- Open a folder → click a file → **Download raw file**
+
+---
+
+## 📺 Tutorials
+- Day/Night Cycle
