@@ -1,7 +1,7 @@
 # godot-tutorial-assets
 
 Textures used in my Godot tutorials on my YouTube channel  
-**DrewienkoIndieDev**
+**DrewienkoIndieDev** - https://www.youtube.com/channel/UCrE2Dbd4MzFveLTs4MX7yaA
 
 ---
 
